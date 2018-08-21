@@ -39,7 +39,7 @@ exp.filter <- c()
 
 ############### Header content ####################
 
-header <- dashboardHeader(title = "TexTrove")
+header <- dashboardHeader(title = "TexTapience")
 
 ############### Sidebar content ###################
 
