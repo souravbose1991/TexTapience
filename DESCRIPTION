@@ -1,4 +1,4 @@
-Package: topicApp 
+Package: TexTapience 
 Title: A Shiny App to run Topic Models
 Version: 1.0
 Authors@R: person("Sourav", "Bose", email =  "souravboss.bose@gmail.com", role = c("aut", "cre"))
@@ -7,40 +7,8 @@ Depends: R (>= 3.4.0)
 License: GPL-2 
 LazyData: true
 Imports: 
-    Matrix,
-    shiny,
-    quanteda,
-    shinydashboard,
-    RColorBrewer,
-    DT,
-    visNetwork,
-    tm,
-    igraph,
-    wordcloud,
-    scatterD3,
-    reshape,
-    grid,
-    tidyverse,
-    shinyjs,
-    shinyBS,
-    stm,
-    treemap,
-    slickR,
-    slam,
-    tidytext,
-    tidyverse,
-    devtools,
-    dendextend,
-    textclean,
-    data.table,
-    textstem,
-    tokenizers,
-    ggExtra,
-    sentimentr,
-    plotly,
-    networkD3,
-    network,
-    networkDynamic,
-    ndtv,
-    sna
+    Matrix, shiny, quanteda, shinydashboard, RColorBrewer, DT, visNetwork, tm, igraph, wordcloud, scatterD3,
+    reshape, grid, tidyverse, shinyjs, shinyBS, stm, treemap, slickR, slam, tidytext, tidyverse, devtools,
+    dendextend, textclean, data.table, textstem, tokenizers, ggExtra, sentimentr, plotly, networkD3, network,
+    networkDynamic, ndtv, sna
 RoxygenNote: 6.0.1
