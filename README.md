@@ -32,11 +32,6 @@ devtools::install_github("souravbose1991/topicApp")
 topicApp::runApp()
 ```
 
-![Screen Shot 1](img/screen-shot-1.png)
-
-![Screen Shot 2](img/screen-shot-2.png)
-
-![Screen Shot 3](img/screen-shot-3.png)
 
 ## FAQ/Help
 
