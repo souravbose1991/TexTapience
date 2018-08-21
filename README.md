@@ -1,4 +1,4 @@
-# TexTrove: A Simple Shiny App for Topic Modeling
+# TexTapience: A Simple Shiny App for Topic Modeling
 
 This GitHub repo provides an interactive app for running small (< 100 MB) text datasets. For larger datasets, we recommend a separate [GitHub repo](https://github.com/souravbose1991/text-analysis-org-science) that provides code examples of how to run manually topic modeling.
 
